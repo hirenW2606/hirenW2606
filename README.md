@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hiren Waghela</h1>
-<h3 align="center">Dedicated and accomplished Full Stack Developer with hands‑on experience in designing and implementing innovative web solutions. Seeking a challenging role to leverage expertise in HTML, CSS, JavaScript, and front‑end frameworks to contribute to the success of a dynamic and forward‑ thinking organization. Eager to apply creativity and technical skills to enhance user experiences and drive the evolution of Full Stack development.</h3>
 
 - 💬 Ask me about **ReactJS,NextJS, JavaScript, tailwind CSS, CSS3**
 
